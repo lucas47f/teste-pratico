@@ -60,7 +60,7 @@ src
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/lucas47f/teste-pratico
    cd seurepositorio
    mvn clean install
    mvn spring-boot:run
